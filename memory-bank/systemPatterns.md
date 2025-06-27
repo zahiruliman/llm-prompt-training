@@ -50,17 +50,31 @@ graph TD
     subgraph "training-materials/"
         M[00_introduction.md]
         T1[01_technique_persona.md]
-        T2[...]
-        T6[07_technique_reverse_engineering.md]
-        C[08_conclusion.md]
+        T2[02_technique_context.md]
+        T3[03_technique_few_shot.md]
+        T4[04_technique_chain_of_thought.md]
+        T5[05_technique_iterative.md]
+        T6[06_technique_reverse_engineering.md]
+        C[07_conclusion.md]
+        MC[main_content.md]
     end
 
     D --> M
     D --> T1
     D --> T2
+    D --> T3
+    D --> T4
+    D --> T5
     D --> T6
     D --> C
+    D --> MC
 ```
-- A `training-materials/` directory will hold the detailed, professional documentation.
-- A final, summarized `training_slides.md` will be created at the root level.
-- A new, comprehensive `trainer_notes.md` will also be created at the root level. 
+
+**CORRECT FILE STRUCTURE:**
+- **6 Core Techniques:** Files 01-06 (Persona, Context, Few-Shot, Chain of Thought, Iterative, Reverse Engineering)
+- **Supporting Files:** 00_introduction.md, 07_conclusion.md, main_content.md
+- **Root Level:** training_slides.md, trainer_notes.md
+
+- A `training-materials/` directory holds the detailed, professional documentation.
+- A final, summarized `training_slides.md` is created at the root level.
+- A comprehensive `trainer_notes.md` is also created at the root level. 

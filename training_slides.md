@@ -323,7 +323,7 @@ TEMPLATE PATTERN:
 
 EXAMPLE 1:
 ---
-**ID Keperluan:** SKS-FUNC-001
+**ID Keperluan:** SKS-FUNC-001  
 **Pernyataan:** Sistem hendaklah membenarkan Pemohon Visa untuk submit aplikasi visa elektronik menggunakan MyKad atau passport verification
 **Keutamaan:** Tinggi
 **Compliance Note:** Must comply with PDPA for personal data handling
