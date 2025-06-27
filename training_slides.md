@@ -1,7 +1,8 @@
 # Professional KRISA Documentation with AIDevX
-*Advanced Prompting Strategies for Malaysian Government Analysts*
 
-**Session Objective:** Transform your approach to creating government-standard KRISA documents using professional AI assistance techniques  
+_Advanced Prompting Strategies for Malaysian Government Analysts_
+
+**Session Objective:** Transform your approach to creating government-standard KRISA documents using professional AI assistance techniques\
 **Duration:** 90 minutes | **Participants:** Business & System Analysts
 
 ---
@@ -14,26 +15,29 @@ You're tasked with creating comprehensive KRISA documents - SKB, SKS, and SRB - 
 
 ### **Professional vs Amateur AI Usage**
 
-| **Amateur Approach** | **Professional Approach** |
-|---------------------|--------------------------|
-| "Write a requirements document" | Structured expert guidance with context |
-| Generic outputs needing extensive revision | Government-ready documents in hours |
-| Inconsistent quality and formatting | Predictable, professional results |
-| Starting from scratch each time | Systematic methodology for all projects |
+| **Amateur Approach**                       | **Professional Approach**               |
+| ------------------------------------------ | --------------------------------------- |
+| "Write a requirements document"            | Structured expert guidance with context |
+| Generic outputs needing extensive revision | Government-ready documents in hours     |
+| Inconsistent quality and formatting        | Predictable, professional results       |
+| Starting from scratch each time            | Systematic methodology for all projects |
 
 ---
 
 ### **Your 90-Minute Mastery Program**
 
 **PHASE 1** (0-30 min): **Foundation Skills**
+
 - Platform mastery and expert persona development
 - Project context structuring for KRISA compliance
 
-**PHASE 2** (30-60 min): **Advanced Techniques**  
+**PHASE 2** (30-60 min): **Advanced Techniques**
+
 - Template-driven formatting and blueprint planning
 - Professional refinement methodologies
 
 **PHASE 3** (60-90 min): **Mastery Integration**
+
 - Complete workflow integration
 - Real-world government project assessment
 
@@ -47,12 +51,12 @@ You're tasked with creating comprehensive KRISA documents - SKB, SKS, and SRB - 
 
 AIDevX provides specialized AI assistants, each designed for specific documentation tasks. Think of them as expert consultants, each with deep knowledge in their domain.
 
-| **AI Assistant** | **Document Output** | **Professional Use Case** |
-|------------------|-------------------|---------------------------|
-| **Generate Requirements** | SKB, SKS documents | Transform business discussions into structured KRISA requirements |
-| **SRS to SDS** | Technical SRB | Convert system requirements into detailed architectural designs |
-| **Create User Manual** | End-user guides | Generate citizen-friendly documentation for government services |
-| **Chat with Document** | Analysis & insights | Extract specific information from existing government documents |
+| **AI Assistant**          | **Document Output** | **Professional Use Case**                                         |
+| ------------------------- | ------------------- | ----------------------------------------------------------------- |
+| **Generate Requirements** | SKB, SKS documents  | Transform business discussions into structured KRISA requirements |
+| **SRS to SDS**            | Technical SRB       | Convert system requirements into detailed architectural designs   |
+| **Create User Manual**    | End-user guides     | Generate citizen-friendly documentation for government services   |
+| **Chat with Document**    | Analysis & insights | Extract specific information from existing government documents   |
 
 ---
 
@@ -60,11 +64,11 @@ AIDevX provides specialized AI assistants, each designed for specific documentat
 
 **Traditional Document Creation:**
 Business Meeting → Manual Notes → Draft Document → Multiple Reviews → Revisions → Final Document
-*(Timeline: 2-3 weeks)*
+_(Timeline: 2-3 weeks)_
 
 **AIDevX Professional Workflow:**
 Business Meeting → Structured Prompt + Context → AI Generation → Professional Refinement → Government-Ready Document
-*(Timeline: 2-3 hours)*
+_(Timeline: 2-3 hours)_
 
 ---
 
@@ -73,14 +77,17 @@ Business Meeting → Structured Prompt + Context → AI Generation → Professio
 Our training concentrates on the three core KRISA documents you create regularly:
 
 **SKB (Spesifikasi Keperluan Bisnes)**
+
 - Business objectives, stakeholder needs, process requirements
 - Foundation document that drives all subsequent development
 
-**SKS (Spesifikasi Keperluan Sistem)**  
+**SKS (Spesifikasi Keperluan Sistem)**
+
 - Technical requirements, functional specifications, integration needs
 - Bridge between business needs and technical implementation
 
 **SRB (Spesifikasi Rekabentuk Sistem)**
+
 - System architecture, design patterns, technical blueprints
 - Detailed implementation guidance for development teams
 
@@ -95,12 +102,14 @@ When you hire a consultant for a critical government project, you choose someone
 ### **Impact of Expert Persona Selection**
 
 **Without Expert Persona (Generic Output):**
+
 ```
 "Write requirements for a login system."
 Result: Generic, one-size-fits-all requirements lacking government context
 ```
 
 **With Expert Persona (Professional Output):**
+
 ```
 "You are a Senior System Analyst with 15 years of experience in Malaysian 
 government digital services, specializing in KRISA-compliant documentation 
@@ -118,19 +127,22 @@ Result: Government-specific, compliance-ready, professionally structured require
 ### **Strategic Persona Selection for KRISA Documents**
 
 **For SKB (Business Requirements):**
-*"Senior Business Analyst with extensive experience in Malaysian public sector digital transformation projects"*
+_"Senior Business Analyst with extensive experience in Malaysian public sector digital transformation projects"_
+
 - Deep understanding of government stakeholder needs
 - Knowledge of regulatory compliance requirements
 - Experience with citizen service design
 
 **For SKS (System Requirements):**
-*"Lead System Analyst specializing in government enterprise architecture"*
+_"Lead System Analyst specializing in government enterprise architecture"_
+
 - Technical expertise in integration with existing government systems
 - Understanding of security and compliance frameworks
 - Experience with KRISA methodology
 
 **For SRB (System Design):**
-*"Solutions Architect with focus on Malaysian government technology stack"*
+_"Solutions Architect with focus on Malaysian government technology stack"_
+
 - Knowledge of approved technology standards
 - Experience with government-scale system design
 - Understanding of inter-agency integration requirements
@@ -139,15 +151,16 @@ Result: Government-specific, compliance-ready, professionally structured require
 
 ---
 
-## Slide 4: Expert Selection Workshop *(5 minutes)*
+## Slide 4: Expert Selection Workshop _(5 minutes)_
 
 ### **Real Scenario: Ministry of Health E-Prescription System**
 
 The Ministry of Health is developing a nationwide e-prescription system that will connect hospitals, clinics, and pharmacies across Malaysia. This system must integrate with existing hospital management systems, comply with medical data protection regulations, and support both MyKad and foreign patient identification.
 
 **Project Complexity:**
+
 - 500+ healthcare facilities to integrate
-- Real-time prescription verification across systems  
+- Real-time prescription verification across systems
 - Medical data privacy compliance (PDPA + healthcare regulations)
 - Integration with National Pharmaceutical Database
 - Multi-language support (Bahasa Malaysia, English, Chinese, Tamil)
@@ -159,21 +172,21 @@ The Ministry of Health is developing a nationwide e-prescription system that wil
 For each critical document, identify the most qualified expert persona:
 
 **DOCUMENT 1: SKB (Business Requirements)**
-*Who should define the business objectives and stakeholder needs?*
+_Who should define the business objectives and stakeholder needs?_
 
 **A)** Healthcare IT Specialist with programming background
-**B)** Senior Business Analyst with 10+ years in Malaysian healthcare digitization projects  
+**B)** Senior Business Analyst with 10+ years in Malaysian healthcare digitization projects\
 **C)** Medical Doctor with basic IT knowledge
 
-**DOCUMENT 2: SKS (System Requirements)**  
-*Who should detail the technical specifications and integration requirements?*
+**DOCUMENT 2: SKS (System Requirements)**\
+_Who should detail the technical specifications and integration requirements?_
 
 **A)** Project Manager with general technology oversight experience
 **B)** Lead System Analyst specializing in healthcare enterprise systems integration
 **C)** Database Administrator with hospital system experience
 
 **DOCUMENT 3: SRB (System Design)**
-*Who should architect the technical solution and system design?*
+_Who should architect the technical solution and system design?_
 
 **A)** Solutions Architect with expertise in large-scale government healthcare technology
 **B)** Senior Business Analyst with healthcare domain knowledge
@@ -200,12 +213,15 @@ AIDevX has extensive knowledge about KRISA methodology, government standards, an
 **Scenario:** Developing a digital permit application system for Majlis Bandaraya Kuala Lumpur
 
 **Context-Free Request (Amateur):**
+
 ```
 "Generate system requirements for permit application system"
 ```
+
 **Result:** Generic requirements that could apply to any permit system anywhere in the world
 
 **Context-Rich Request (Professional):**
+
 ```
 "Generate system requirements for DBKL's digital building permit application 
 system that must:
@@ -216,6 +232,7 @@ system that must:
 - Serve 50,000+ annual applications from architects, contractors, and property owners
 - Include online payment via FPX and integration with DBKL finance system"
 ```
+
 **Result:** Specific, implementable requirements tailored to DBKL's actual needs
 
 ---
@@ -223,16 +240,19 @@ system that must:
 ### **Essential Context Architecture for Government Projects**
 
 **PROJECT FOUNDATION**
+
 - Background: What business problem are we solving?
 - Objectives: What specific outcomes must be achieved?
 - Success metrics: How will we measure project success?
 
-**STAKEHOLDER ECOSYSTEM**  
+**STAKEHOLDER ECOSYSTEM**
+
 - Primary users: Who will actually use the system daily?
 - Decision makers: Who approves and governs the project?
 - Integration partners: Which existing systems must connect?
 
 **OPERATIONAL CONSTRAINTS**
+
 - Technical environment: What technology stack is approved?
 - Regulatory requirements: Which laws and policies apply?
 - Timeline and budget: What are the practical limitations?
@@ -241,19 +261,21 @@ system that must:
 
 ---
 
-## Slide 6: Context Intelligence Workshop *(10 minutes)*
+## Slide 6: Context Intelligence Workshop _(10 minutes)_
 
 ### **Professional Challenge: Government Project Context Analysis**
 
 You've been assigned to review a project brief prepared by a junior analyst. The brief was submitted to generate SKS documentation, but it lacks critical context that will result in unusable output.
 
 **The Inadequate Brief:**
-```
+
+```text
 You are a System Analyst. The government wants to build a new booking system 
 for citizen appointments. Please generate the SKS document.
 ```
 
 **Why This Brief Fails Professional Standards:**
+
 - No specific agency or department identified
 - Missing integration requirements with existing government systems
 - No compliance framework specified (PDPA, accessibility, security)
@@ -266,6 +288,7 @@ for citizen appointments. Please generate the SKS document.
 
 **STEP 1: Individual Analysis (3 minutes)**
 Identify specific context gaps that will prevent creating a government-ready SKS document. Consider:
+
 - Which ministry or agency? What's their mandate?
 - What type of appointments? (Healthcare, licensing, permits, etc.)
 - Who are the users? (Citizens, staff, external agencies?)
@@ -273,6 +296,7 @@ Identify specific context gaps that will prevent creating a government-ready SKS
 
 **STEP 2: Professional Collaboration (5 minutes)**
 Working in pairs, develop a comprehensive context framework that would enable generation of a professional SKS. Create categories of essential information:
+
 - **Business Context**: Agency, objectives, current process issues
 - **Technical Context**: Integration requirements, approved technology stack
 - **Compliance Context**: Regulatory requirements, security standards
@@ -282,6 +306,7 @@ Working in pairs, develop a comprehensive context framework that would enable ge
 Present one example of how complete context transforms the quality of AIDevX output for government projects.
 
 ### **Professional Outcome**
+
 Demonstrate understanding that context completeness directly correlates with document quality and government readiness.
 
 ---
@@ -303,13 +328,16 @@ Government documents require precise formatting, consistent structure, and speci
 **The Challenge:** Generate functional requirements for Jabatan Imigresen's new visa application system that meet government documentation standards.
 
 **Format Description Approach (Unreliable):**
+
 ```
 "Generate functional requirements in government format with ID numbers, 
 clear statements, and priority levels"
 ```
+
 **Result:** Inconsistent formatting, unclear requirement structure
 
 **Template Example Approach (Professional):**
+
 ```
 Generate functional requirements using this EXACT KRISA format:
 
@@ -339,23 +367,26 @@ EXAMPLE 2:
 
 Now generate 8 functional requirements for online visa fee payment module.
 ```
+
 **Result:** Perfectly formatted, government-standard requirements ready for official documentation
 
 ### **Professional Principle:** One perfect example is worth a thousand words of description.
 
 ---
 
-## 🎮 Slide 8: Activity 3 - Template Teaching *(8 minutes)*
+## 🎮 Slide 8: Activity 3 - Template Teaching _(8 minutes)_
 
 ### **📋 Challenge: Transform Raw Notes**
 
 **Raw Input:**
+
 ```
 The system admin needs to manage user roles. They should create new roles, 
 edit permissions, and delete unused roles. This is high priority.
 ```
 
 **Target KRISA Format:**
+
 ```
 **Requirement ID:** SKS-FUNC-XXX
 **Statement:** The system shall allow [Actor] to [Action]  
@@ -363,8 +394,9 @@ edit permissions, and delete unused roles. This is high priority.
 ```
 
 ### **✍️ Your Task:** Write a complete prompt using:
+
 - ✅ Appropriate persona
-- ✅ Brief context  
+- ✅ Brief context
 - ✅ Few-shot examples
 - ✅ Clear instruction
 
@@ -379,6 +411,7 @@ edit permissions, and delete unused roles. This is high priority.
 Think of creating a complex KRISA document like designing a building. An architect never starts construction without detailed blueprints. Similarly, for complex documents like SRB or multi-section SKS, we need AIDevX to create a blueprint first.
 
 ### **When You Need Blueprint Planning:**
+
 - Large KRISA documents (SRB with multiple technical sections)
 - Complex business processes (multi-department workflows)
 - System integration projects (connecting 3+ existing systems)
@@ -388,10 +421,10 @@ Think of creating a complex KRISA document like designing a building. An archite
 
 ### **COMPARISON: Direct vs Blueprint Approach**
 
-| **Direct Request (Risky)** | **Blueprint Planning (Professional)** |
-|---------------------------|---------------------------------------|
-| *"Generate complete SRB for mobile payment system"* | *"Before creating the SRB, first blueprint the architecture by identifying: components, integrations, data flow, and security layers"* |
-| **Result:** Generic document, missing critical elements | **Result:** Validated structure, comprehensive coverage |
+| **Direct Request (Risky)**                              | **Blueprint Planning (Professional)**                                                                                                  |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| _"Generate complete SRB for mobile payment system"_     | _"Before creating the SRB, first blueprint the architecture by identifying: components, integrations, data flow, and security layers"_ |
+| **Result:** Generic document, missing critical elements | **Result:** Validated structure, comprehensive coverage                                                                                |
 
 ---
 
@@ -400,6 +433,7 @@ Think of creating a complex KRISA document like designing a building. An archite
 **Scenario:** Bank Rakyat wants to integrate FPX payment into their mobile banking app
 
 **Blueprint Planning Prompt:**
+
 ```
 You are a Lead Solutions Architect at Bank Rakyat Malaysia. Before creating 
 the technical SRB document, please blueprint the FPX integration by analyzing:
@@ -425,13 +459,14 @@ Present this blueprint for validation before generating the full SRB document.
 
 ---
 
-## Slide 10: Architecture Planning Workshop *(10 minutes)*
+## Slide 10: Architecture Planning Workshop _(10 minutes)_
 
 ### **Real Scenario: Government Employee E-Claim System**
 
 **Background:** Jabatan Akauntan Negara Malaysia wants to digitize expense claims for 50,000+ civil servants across all ministries.
 
 **Current Pain Points:**
+
 - Paper forms take 3-4 weeks processing time
 - No integration with existing HR systems (HRMIS)
 - Manual approval chain causes bottlenecks
@@ -444,6 +479,7 @@ Present this blueprint for validation before generating the full SRB document.
 Working in pairs, create a blueprint planning prompt for AIDevX that breaks down this complex SKS into logical components.
 
 **Planning Framework:**
+
 ```
 STEP 1: System Ecosystem Mapping
 - What are the KEY existing government systems to integrate with?
@@ -482,18 +518,18 @@ Instead of starting over when a document isn't quite right, we guide AIDevX thro
 
 ### **REAL REFINEMENT EXAMPLES FROM MALAYSIAN PROJECTS**
 
-| **Vague Direction (Amateur)** | **Professional Guidance (Expert)** |
-|-------------------------------|-------------------------------------|
-| *"This SKB needs work"* | *"Section 3.2 business rules are too broad. Add specific eligibility criteria: Malaysian citizens only, minimum 2 years service, maximum RM5,000 per claim"* |
-| *"Fix the requirements"* | *"Requirement SKB-BR-08 fails the SMART test. Replace 'system should be user-friendly' with 'login process completes within 30 seconds for 95% of users'"* |
-| *"Make it more detailed"* | *"Add integration constraints to section 4: must use existing LDAP for authentication, connect via REST API to HRMIS database, maintain 99.5% uptime SLA"* |
+| **Vague Direction (Amateur)** | **Professional Guidance (Expert)**                                                                                                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| _"This SKB needs work"_       | _"Section 3.2 business rules are too broad. Add specific eligibility criteria: Malaysian citizens only, minimum 2 years service, maximum RM5,000 per claim"_ |
+| _"Fix the requirements"_      | _"Requirement SKB-BR-08 fails the SMART test. Replace 'system should be user-friendly' with 'login process completes within 30 seconds for 95% of users'"_   |
+| _"Make it more detailed"_     | _"Add integration constraints to section 4: must use existing LDAP for authentication, connect via REST API to HRMIS database, maintain 99.5% uptime SLA"_   |
 
 ---
 
 ### **Step-by-Step Refinement for Government Standards**
 
 **PHASE 1:** Generate working draft
-**PHASE 2:** Review against KRISA checklist  
+**PHASE 2:** Review against KRISA checklist\
 **PHASE 3:** One focused improvement per round
 **PHASE 4:** Stakeholder validation
 **PHASE 5:** Final compliance check
@@ -502,20 +538,22 @@ Instead of starting over when a document isn't quite right, we guide AIDevX thro
 
 ---
 
-## Slide 12: Document Quality Workshop *(10 minutes)*
+## Slide 12: Document Quality Workshop _(10 minutes)_
 
 ### **Quality Control Challenge: University Student Portal SKS**
 
 You're reviewing an SKS document for Universiti Malaya's new student portal. The Business Analyst delivered this requirement:
 
 **PROBLEMATIC REQUIREMENT:**
+
 ```
 SKS-FUNC-015: The system shall allow the administrator to manage users.
 ```
 
 **Why This Fails Government Standards:**
+
 - Too vague for implementation team
-- Cannot be tested effectively  
+- Cannot be tested effectively
 - Doesn't specify business rules
 - Missing compliance considerations
 
@@ -524,14 +562,17 @@ SKS-FUNC-015: The system shall allow the administrator to manage users.
 ### **Group Refinement Exercise**
 
 **STEP 1 (2 minutes):** Individual brainstorming
+
 - List what's wrong with this requirement
 - Think of specific functions "manage users" could mean
 
-**STEP 2 (5 minutes):** Pair collaboration  
+**STEP 2 (5 minutes):** Pair collaboration
+
 - Write 3 specific refinement prompts for AIDevX
 - Each prompt should target one specific aspect
 
 **STEP 3 (3 minutes):** Class sharing
+
 - One pair presents their best refinement prompt
 - Group discusses why it works
 
@@ -540,6 +581,7 @@ SKS-FUNC-015: The system shall allow the administrator to manage users.
 ### **Target Professional Standards:**
 
 Each refined requirement should include:
+
 - **Specific actor** (which type of administrator?)
 - **Precise action** (create, modify, disable, etc.)
 - **Business constraints** (approval workflows, audit trails)
@@ -565,11 +607,13 @@ Malaysian government agencies have established document formats that reflect pro
 
 **STEP 1: IDENTIFY THE MASTER TEMPLATE**
 Find a well-formatted document from your organization
+
 - Previous year's approved SKB
-- Corporate project proposal template  
+- Corporate project proposal template
 - Ministry's standard SRB format
 
 **STEP 2: EXTRACT THE STYLE DNA**
+
 ```
 Document Structure Analysis:
 ├─ Heading hierarchy (1.0, 1.1, 1.1.1)
@@ -595,13 +639,14 @@ Instead of describing what you want, show AIDevX exactly how it should look
 
 ---
 
-## Slide 14: Style Transfer Mastery Workshop *(10 minutes)*
+## Slide 14: Style Transfer Mastery Workshop _(10 minutes)_
 
 ### **Professional Challenge: Transform Raw Meeting Notes into Executive Summary**
 
 **Real Scenario:** You attended a high-level ministry meeting about digital transformation strategy. Your director needs a formal executive summary that matches the ministry's established format.
 
 **What You Have:**
+
 - **Perfect Style Template:** Last quarter's approved executive summary format
 - **Raw Meeting Notes:** Informal discussion points and decisions
 - **Deadline:** Executive briefing tomorrow morning
@@ -609,6 +654,7 @@ Instead of describing what you want, show AIDevX exactly how it should look
 ---
 
 ### **Style Template Sample (Ministry Format):**
+
 ```
 EXECUTIVE SUMMARY: DIGITAL TRANSFORMATION INITIATIVE
 Document: MOSTI/EX/2023/Q3-07 | Date: 15 September 2023
@@ -625,6 +671,7 @@ Phase 1 (Oct-Dec 2023): Requirements gathering and vendor selection
 ```
 
 ### **Raw Meeting Notes to Transform:**
+
 ```
 - Minister approved the AI policy budget increase to 3.8 million
 - Timeline pushed back 6 months due to stakeholder consultations
@@ -636,6 +683,7 @@ Phase 1 (Oct-Dec 2023): Requirements gathering and vendor selection
 ---
 
 ### **Your Mission:**
+
 Create one complete style replication prompt that transforms these meeting notes into a professional executive summary matching the ministry template format.
 
 **Deliverable:** Ready-to-use prompt for AIDevX
@@ -654,21 +702,25 @@ You now have all the tools a professional Business or System Analyst needs to cr
 ### **THE PROFESSIONAL'S 4-PHASE APPROACH**
 
 **PHASE 1: FOUNDATION SETTING**
+
 - Define the expert persona (Solutions Architect, Business Analyst, etc.)
 - Provide complete project context and constraints
 - Specify KRISA compliance requirements
 
-**PHASE 2: STRUCTURE PLANNING**  
+**PHASE 2: STRUCTURE PLANNING**
+
 - Use blueprint planning for complex documents
 - Break down large tasks into logical components
 - Validate approach before detailed writing
 
 **PHASE 3: PROFESSIONAL EXECUTION**
+
 - Apply style templates for formatting consistency
 - Use proven examples to guide output format
 - Generate working drafts for review
 
 **PHASE 4: QUALITY ASSURANCE**
+
 - Methodical refinement against government standards
 - Stakeholder validation of technical accuracy
 - Final compliance verification
@@ -680,6 +732,7 @@ You now have all the tools a professional Business or System Analyst needs to cr
 **INPUT:** Ministry wants to digitize citizen birth certificate applications
 
 **PROFESSIONAL PROCESS:**
+
 ```
 FOUNDATION → PLANNING → EXECUTION → REFINEMENT
     ↓           ↓           ↓           ↓
@@ -695,6 +748,7 @@ Context        Method       Templates   Reviews
 ### **Copy-Paste Professional Templates**
 
 **SKB Quick-Start Prompt:**
+
 ```
 You are a Senior Business Analyst with 10+ years experience in Malaysian 
 government digital transformation projects. Create an SKB for [PROJECT NAME] 
@@ -725,14 +779,16 @@ You've learned all six professional techniques. Now prove your mastery with a re
 **Stakeholders:** 32 million Malaysian citizens, 25 government agencies, international auditors
 
 **Project Requirements:**
+
 - Replace physical MyKad verification with digital system
-- Integration with Immigration, JPJ, Election Commission, and Banking systems  
+- Integration with Immigration, JPJ, Election Commission, and Banking systems
 - Biometric authentication including facial recognition and fingerprint
 - Real-time verification across all government touchpoints
 - Full PDPA compliance with citizen consent management
 - Meet international security standards (ISO 27001)
 
 **Constraints:**
+
 - Must work with existing government network infrastructure
 - Phased rollout over 18 months
 - Budget ceiling of RM 50 million
@@ -745,12 +801,14 @@ You've learned all six professional techniques. Now prove your mastery with a re
 Create the complete professional workflow to generate a government-ready SKB document:
 
 **DELIVERABLES:**
+
 1. **Foundation Prompt** - Expert persona + complete context
-2. **Blueprint Planning** - Document structure breakdown  
+2. **Blueprint Planning** - Document structure breakdown
 3. **Quality Standards** - Refinement checklist for government compliance
 4. **AIDevX Strategy** - Which assistant to use and why
 
 **Assessment Criteria:**
+
 - Professional persona selection and context completeness
 - Logical blueprint planning approach
 - Government compliance awareness
@@ -770,30 +828,33 @@ You now possess the complete toolkit for creating government-standard KRISA docu
 
 ### **TRANSFORMATION ACHIEVED**
 
-| **Before This Training** | **After This Training** |
-|--------------------------|-------------------------|
-| Generic AI conversations | Expert persona guidance |
+| **Before This Training**             | **After This Training**                |
+| ------------------------------------ | -------------------------------------- |
+| Generic AI conversations             | Expert persona guidance                |
 | Vague prompts, unpredictable results | Structured context, consistent quality |
-| Hours of manual formatting | Style replication in minutes |
-| Multiple revision cycles | Blueprint planning prevents errors |
-| Starting from scratch each time | Refinement methodology for quality |
-| Inconsistent document standards | Template-based consistency |
+| Hours of manual formatting           | Style replication in minutes           |
+| Multiple revision cycles             | Blueprint planning prevents errors     |
+| Starting from scratch each time      | Refinement methodology for quality     |
+| Inconsistent document standards      | Template-based consistency             |
 
 ---
 
 ### **IMMEDIATE ACTIONS FOR YOUR NEXT PROJECT**
 
 **THIS WEEK:**
+
 - Identify one current project document that needs creation or improvement
 - Apply the 4-phase professional workflow to generate a working draft
 - Practice blueprint planning on a complex requirement gathering task
 
 **THIS MONTH:**
+
 - Create your organization's style template library for common documents
 - Train your team on the professional refinement methodology
 - Establish quality standards checklist for AIDevX-generated documents
 
 **ONGOING:**
+
 - Build your personal library of proven prompts for different document types
 - Continuously refine your expert persona descriptions for different project roles
 - Share success stories and best practices with your professional network
@@ -807,6 +868,7 @@ You now possess the complete toolkit for creating government-standard KRISA docu
 **Professional Network:** Connect with other certified practitioners for ongoing collaboration
 
 **Remember:** The difference between an amateur and a professional isn't just knowledge - it's the systematic application of proven methodologies. You now have both.
+
 - Quick Reference: Technique summary cards
 
 ---
@@ -816,27 +878,33 @@ You now possess the complete toolkit for creating government-standard KRISA docu
 ### **🗣️ Open Floor Discussion**
 
 **💭 Reflection Questions:**
+
 - Which technique will have the biggest impact on your daily work?
 - What challenges do you anticipate when implementing these strategies?
 - How will this change your current documentation process?
 
 ### **📋 Common Questions:**
+
 - **Q:** How long should a good prompt be?
+
 - **A:** Quality over quantity - include all necessary context but stay focused
 
 - **Q:** What if the AI doesn't understand KRISA format?
+
 - **A:** Use Technique 6 (Reverse Engineering) with existing KRISA documents
 
 - **Q:** How do I handle confidential project information?
+
 - **A:** Use generic examples during training, apply techniques to real projects carefully
 
 ### **🎯 Ready to Transform Your Documentation Workflow!**
 
 **Next Steps:**
+
 1. ✅ Bookmark `aidevx.mtssb.io`
 2. ✅ Practice with one technique daily
 3. ✅ Prepare for hands-on session
 
 ---
 
-*📧 Contact: [Training Coordinator] | 📅 Next Session: [Date/Time]* 
+_📧 Contact: \[Training Coordinator\] | 📅 Next Session: \[Date/Time\]_
