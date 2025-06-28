@@ -17,7 +17,7 @@ Chain of Thought (CoT) prompting is a technique where we explicitly instruct the
 
 **From a Technical Perspective:** For complex tasks like generating a full **SRB**, a direct answer requires the AI to make multiple logical inferences at once. This can lead to errors. Chain of Thought prompting constrains the model to follow a deliberate, sequential reasoning path. Each step builds on the previous one, which dramatically reduces the likelihood of logical fallacies or missed sections.
 
-**From a Practical Perspective:** This technique allows us to validate the AI's "thinking" before it commits to an answer. It's especially useful for planning the structure of a large KRISA document or analyzing a complex business process before writing the **SKB**. It helps uncover flawed assumptions in the AI's approach early on, allowing us to course-correct.
+**From a Practical Perspective:** This technique allows us to validate the AI's "thinking" before it commits to an answer. It's especially useful for planning the structure of a large KRISA document or analyzing a complex business process before writing the **BRS**. It helps uncover flawed assumptions in the AI's approach early on, allowing us to course-correct.
 
 ### **When You Need Blueprint Planning:**
 - Large KRISA documents (SRB with multiple technical sections)
@@ -137,7 +137,7 @@ kandungan SRB terperinci bagi setiap seksyen.
 
 | **Best Practice** | **Example** | **Why It Works** |
 |-------------------|-------------|------------------|
-| **Use for Complex KRISA Documents** | Apply for SRB creation, complex SKS planning, multi-department SKB analysis | Ensures comprehensive coverage of all components |
+| **Use for Complex KRISA Documents** | Apply for SRB creation, complex SKS planning, multi-department BRS analysis | Ensures comprehensive coverage of all components |
 | **Guide the Thought Process** | Provide key areas to consider mapping to KRISA document sections | Produces structured, relevant analysis |
 | **Include Government Context** | Reference Bank Negara, PDPA, ministry-specific requirements | Ensures regulatory compliance in planning |
 | **Validate Before Generation** | Review blueprint before requesting full document creation | Prevents wasted effort on flawed foundations |

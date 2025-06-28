@@ -51,7 +51,7 @@ Step 4: Review and refine as needed
 
 | **Document Type** | **Recommended Persona** | **Expertise Focus** |
 |-------------------|------------------------|-------------------|
-| **📄 SKB** (Business Requirements) | Senior Business Analyst with extensive experience in Malaysian public sector digital transformation projects | Deep understanding of government stakeholder needs, knowledge of regulatory compliance requirements, experience with citizen service design |
+| **📄 BRS** (Business Requirements) | Senior Business Analyst with extensive experience in Malaysian public sector digital transformation projects | Deep understanding of government stakeholder needs, knowledge of regulatory compliance requirements, experience with citizen service design |
 | **📄 SKS** (System Requirements) | Lead System Analyst specializing in government enterprise architecture | Technical expertise in integration with existing government systems, understanding of security and compliance frameworks, experience with KRISA methodology |
 | **📄 SRB** (System Design) | Solutions Architect with focus on Malaysian government technology stack | Knowledge of approved technology standards, experience with government-scale system design, understanding of inter-agency integration requirements |
 
@@ -98,7 +98,7 @@ Cybersecurity Policy and Bank Negara guidelines."
 
 **Expert Persona Selection Challenge:**
 
-**DOCUMENT 1: SKB (Business Requirements)**
+**DOCUMENT 1: BRS (Business Requirements)**
 *Who should define the business objectives and stakeholder needs?*
 
 **✅ CORRECT:** Senior Business Analyst with 10+ years in Malaysian healthcare digitization projects  
@@ -141,7 +141,7 @@ The persona-driven approach produces requirements that include:
 | **Best Practice** | **Example** | **Why It Works** |
 |-------------------|-------------|------------------|
 | **Be Specific** | "Senior Business Analyst specializing in public sector financial systems" | Narrow focus produces expert-level outputs |
-| **Match Role to Document** | Business Analyst for SKB, System Analyst for SKS | Aligned expertise for appropriate content |
+| **Match Role to Document** | Business Analyst for BRS, System Analyst for SKS | Aligned expertise for appropriate content |
 | **Include Experience Level** | "15 years of experience in Malaysian government projects" | Establishes credibility and depth |
 | **Specify Domain Knowledge** | "Specializing in KRISA-compliant documentation and PDPA compliance" | Ensures relevant regulatory understanding |
 
@@ -166,7 +166,7 @@ The persona-driven approach produces requirements that include:
 
 | **Task** | **Options** | **Your Choice** |
 |----------|-------------|----------------|
-| **Draft SKB** for business objectives | A) Java Developer<br/>B) Senior Business Analyst<br/>C) UI/UX Designer | **B** |
+| **Draft BRS** for business objectives | A) Java Developer<br/>B) Senior Business Analyst<br/>C) UI/UX Designer | **B** |
 | **Create SKS** for system specifications | A) Project Manager<br/>B) Lead System Analyst<br/>C) Database Administrator | **B** |
 | **Design SRB** for system architecture | A) Solutions Architect<br/>B) Business Analyst<br/>C) QA Tester | **A** |
 
@@ -183,14 +183,14 @@ The persona-driven approach produces requirements that include:
 
 ### **Copy-Paste Persona Starters**
 
-**For SKB (Business Requirements):**
+**For BRS (Business Requirements):**
 ```
 You are a Senior Business Analyst with [X] years of experience in Malaysian 
 public sector digital transformation projects, specializing in KRISA-compliant 
 documentation. You have deep understanding of government stakeholder needs, 
 knowledge of regulatory compliance requirements, and experience with citizen 
 service design. Your task is to create a comprehensive Spesifikasi Keperluan 
-Bisnes (SKB) that focuses on stakeholder needs and business objectives.
+Bisnes (BRS) that focuses on stakeholder needs and business objectives.
 ```
 
 **For SKS (System Requirements):**

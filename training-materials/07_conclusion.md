@@ -55,4 +55,4 @@ A structured and courteous approach ensures that the AI receives all the informa
     Sistem ini akan direka bentuk menggunakan seni bina perkhidmatan mikro (microservices). Pendekatan ini dipilih selaras dengan matlamat KRISA untuk membangunkan sistem yang boleh diselenggara dan berskala. Dengan memecahkan fungsi kepada perkhidmatan yang lebih kecil dan bebas (cth., Perkhidmatan Produk, Perkhidmatan Inventori), setiap komponen boleh dibangunkan, diuji, dan digunakan secara berasingan. Ini meningkatkan ketangkasan pembangunan dan membolehkan penskalaan secara bebas bagi perkhidmatan yang menerima beban tinggi, memastikan keberkesanan kos dan kebolehpercayaan jangka panjang.
     ```
 
-By following this structured, multi-technique approach, analysts can effectively direct AIDevX, ensuring the generated **SKB, SKS, and SRB** documents meet professional standards and accelerate the development lifecycle. 
+By following this structured, multi-technique approach, analysts can effectively direct AIDevX, ensuring the generated **BRS, SKS, and SRB** documents meet professional standards and accelerate the development lifecycle. 

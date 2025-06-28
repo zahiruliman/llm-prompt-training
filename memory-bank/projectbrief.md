@@ -7,10 +7,11 @@ This document is the foundation for all other memory bank files. It defines the 
 - To develop a comprehensive 1.5-hour training module on "Role-specific Writing Strategies" for Business Analysts (BAs) and System Analysts (SAs).
 - The training content must focus on advanced prompting techniques applicable to the in-house `AIDevX` (ChatGPT wrapper) tool.
 - The content must be detailed, practical, and include specific examples relevant to generating the four key KRISA documents: 
-  - **Spesifikasi Keperluan Bisnes (SKB)** - Business Requirement Specification (BRS)
+  - **Spesifikasi Keperluan Bisnes (BRS)** - Business Requirement Specification (BRS)
   - **Spesifikasi Keperluan Sistem (SKS)** - System Requirement Specification (SRS)
   - **Spesifikasi Rekabentuk Sistem (SRB)** - System Design Specification (SDS)
   - **Supporting artifacts**: Business Process Models, Use Case Models, and Data Models.
+- Any diagrams or graph will using mermaid code for document generation (for the audience usage)
 - The material must be designed for an audience of average ChatGPT users, aged 27-45, and be culturally mindful of its Malaysian context.
 - The final output should be a full, detailed script or set of teaching notes, not just an outline.
 - The content must be written in a professional, documentation style, avoiding conversational language. It should be structured to be easily convertible into presentation slides.

@@ -17,7 +17,7 @@ Iterative Prompting is the practice of treating the AI as a collaborative partne
 
 **From a Technical Perspective:** An initial, complex prompt (e.g., "Generate the full SKS") might have too many competing constraints for the AI to handle perfectly at once. By breaking down the refinement process into smaller, more focused follow-up prompts, you allow the model to concentrate its resources on one adjustment at a time (e.g., "Now, refine the non-functional requirements section...").
 
-**From a Practical Perspective:** It is often more efficient to generate a solid "Version 1.0" of an **SKB** or **SKS** and then refine it than it is to craft a single, perfect, all-encompassing prompt. This conversational approach allows for rapid course correction and the incremental improvement of a document, making the process feel more like a collaboration.
+**From a Practical Perspective:** It is often more efficient to generate a solid "Version 1.0" of an **BRS** or **SKS** and then refine it than it is to craft a single, perfect, all-encompassing prompt. This conversational approach allows for rapid course correction and the incremental improvement of a document, making the process feel more like a collaboration.
 
 ### **The Professional Refinement Process**
 
@@ -49,7 +49,7 @@ Step 5: Final polish and KRISA compliance check
 
 ## 💡 **Real Example: Government Document Refinement**
 
-### **Scenario:** Refining a Ministry of Education digital learning platform SKB
+### **Scenario:** Refining a Ministry of Education digital learning platform BRS
 
 #### **Initial Professional Draft Generation:**
 
@@ -57,7 +57,7 @@ Step 5: Final polish and KRISA compliance check
 You are a Senior Business Analyst with extensive experience in Malaysian 
 education sector digital transformation projects.
 
-Generate initial draft SKB for Ministry of Education's new digital learning 
+Generate initial draft BRS for Ministry of Education's new digital learning 
 platform that will connect all public schools nationwide.
 
 PROJECT CONTEXT: [Comprehensive context provided]
@@ -65,7 +65,7 @@ PROJECT CONTEXT: [Comprehensive context provided]
 
 #### **Initial Output Quality:**
 ```
-**Dokumen: Spesifikasi Keperluan Bisnes (SKB) - Draf Awal**
+**Dokumen: Spesifikasi Keperluan Bisnes (BRS) - Draf Awal**
 
 **1.0 Pengenalan**
 Dokumen ini menghuraikan keperluan bisnes untuk platform pembelajaran digital 
@@ -90,8 +90,8 @@ yang akan menghubungkan semua sekolah awam di Malaysia.
 #### **❌ Ineffective Refinement (Vague)**
 
 ```
-Boleh perbaiki lagi SKB ini? 
-(Can you improve this SKB?)
+Boleh perbaiki lagi BRS ini? 
+(Can you improve this BRS?)
 ```
 
 **Result:** The AI might make superficial changes without understanding the specific business goals. The feedback is not actionable.
@@ -147,7 +147,7 @@ Pastikan setiap aspek pematuhan mempunyai metrik dan proses pemantauan yang jela
 
 ### **Final Professional Quality Output**
 
-Through systematic refinement, the generic SKB becomes a comprehensive, government-ready document with:
+Through systematic refinement, the generic BRS becomes a comprehensive, government-ready document with:
 
 - ✅ SMART business objectives with measurable targets
 - ✅ Comprehensive stakeholder analysis with specific needs
@@ -232,10 +232,10 @@ Your refinement sequence should transform the vague requirement into:
 
 ## 📝 **Quick Reference Templates**
 
-### **Systematic Refinement Template for SKB**
+### **Systematic Refinement Template for BRS**
 
 ```
-REFINEMENT SEQUENCE FOR SKB:
+REFINEMENT SEQUENCE FOR BRS:
 
 ROUND 1: Business Objectives Enhancement
 "Thank you for the initial draft. Let's refine the Business Objectives section 

@@ -19,7 +19,7 @@
 By the end of this session, you will be able to:
 
 > ✅ **Transform** basic AI conversations into professional documentation workflows  
-> ✅ **Generate** high-quality KRISA documents (SKB, SKS, SRB) using structured prompts  
+> ✅ **Generate** high-quality KRISA documents (BRS, SKS, SRB) using structured prompts  
 > ✅ **Apply** six advanced prompting techniques for consistent, reliable results  
 > ✅ **Integrate** AIDevX into your daily documentation process effectively
 
@@ -68,7 +68,7 @@ This training specifically targets the creation of Malaysian government-standard
 
 ### **Primary Documents**
 
-- **📄 SKB** (Spesifikasi Keperluan Bisnes) — Business Requirement Specification
+- **📄 BRS** (Spesifikasi Keperluan Bisnes) — Business Requirement Specification
 - **📄 SKS** (Spesifikasi Keperluan Sistem) — System Requirement Specification  
 - **📄 SRB** (Spesifikasi Rekabentuk Sistem) — System Design Specification
 

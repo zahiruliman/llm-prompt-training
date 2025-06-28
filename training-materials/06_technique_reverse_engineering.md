@@ -17,7 +17,7 @@ This advanced technique involves teaching the AI a document's entire stylistic a
 
 **From a Technical Perspective:** Different government agencies and ministries have established documentation standards that must be followed precisely. Rather than trying to describe these complex formatting requirements in words, we can provide actual examples. The AI analyzes the structural patterns, heading hierarchies, table formats, and language conventions to create new documents that maintain institutional consistency.
 
-**From a Practical Perspective:** Analysts and project managers often need to create new documents (e.g., an **SKB**) that must match the look and feel of existing documents from their ministry or department. Describing this style manually is nearly impossible. This technique allows you to say, "Here is how our ministry formats official documents. Now, take my raw notes and create a new SKB that follows this exact professional standard."
+**From a Practical Perspective:** Analysts and project managers often need to create new documents (e.g., an **BRS**) that must match the look and feel of existing documents from their ministry or department. Describing this style manually is nearly impossible. This technique allows you to say, "Here is how our ministry formats official documents. Now, take my raw notes and create a new BRS that follows this exact professional standard."
 
 ### **The Professional Style Replication Process**
 
@@ -49,13 +49,13 @@ Professional government documentation requires:
 
 ## 💡 **Real Example: Ministry Document Style Replication**
 
-### **Scenario:** Using established Ministry of Health documentation style for new patient data system SKB
+### **Scenario:** Using established Ministry of Health documentation style for new patient data system BRS
 
 #### **The Professional Style Replication Prompt:**
 
 ```
 You are a Senior Business Analyst at the Ministry of Health Malaysia. Your task 
-is to create a formal Spesifikasi Keperluan Bisnes (SKB) document that follows 
+is to create a formal Spesifikasi Keperluan Bisnes (BRS) document that follows 
 our ministry's established documentation standards.
 
 First, carefully analyze the document style provided in the <style_template> tags. 
@@ -66,7 +66,7 @@ Pay attention to:
 - Professional language tone appropriate for ministry documentation
 - PDPA compliance language integration
 
-Then, take the raw notes from the <new_content> tags and generate a new SKB 
+Then, take the raw notes from the <new_content> tags and generate a new BRS 
 document that strictly follows the ministry's professional style and structure.
 
 <style_template>
@@ -74,7 +74,7 @@ document that strictly follows the ministry's professional style and structure.
 
 **KEMENTERIAN KESIHATAN MALAYSIA**
 **TARIKH:** 15 Julai 2023
-**DOKUMEN NO:** KKM/BRS/SKB/2023/15
+**DOKUMEN NO:** KKM/BRS/BRS/2023/15
 **KLASIFIKASI:** SULIT
 
 ## 1.0 PENGENALAN
@@ -136,7 +136,7 @@ Jumlah bajet yang diperlukan: RM 850,000
 Title: Business Requirements Specification for Hospital Patient Data Integration System
 
 Document Details: 
-- Document number should be KKM/BRS/SKB/2023/28
+- Document number should be KKM/BRS/BRS/2023/28
 - Date: August 20, 2023
 - Classification: CONFIDENTIAL
 
@@ -200,7 +200,7 @@ Approved by: Dato' Dr. Faridah, Director of Hospital Information Systems
 
 **KEMENTERIAN KESIHATAN MALAYSIA**
 **TARIKH:** 20 Ogos 2023
-**DOKUMEN NO:** KKM/BRS/SKB/2023/28
+**DOKUMEN NO:** KKM/BRS/BRS/2023/28
 **KLASIFIKASI:** SULIT
 
 ## 1.0 PENGENALAN
@@ -277,7 +277,7 @@ Jumlah bajet yang diperlukan: RM 2,500,000
 | **Provide Clean, Complete Templates** | Use well-formatted ministry documents with proper headers, numbering, tables | AI learns precise formatting patterns |
 | **Use Clear Separation Markers** | `<style_template>` and `<new_content>` tags | Prevents confusion between style and content |
 | **Include Government Context** | Specify ministry, document classification, compliance requirements | Ensures appropriate professional standards |
-| **Match Document Types** | Use SKB template for SKB creation, SRB template for SRB creation | Maintains document type consistency |
+| **Match Document Types** | Use BRS template for BRS creation, SRB template for SRB creation | Maintains document type consistency |
 | **Preserve Ministry Standards** | Include proper approvals, document numbers, classification levels | Ensures institutional compliance |
 
 ### **❌ AVOID These Mistakes**
@@ -296,10 +296,10 @@ Jumlah bajet yang diperlukan: RM 2,500,000
 ### **Challenge:** Replicate Professional Government Style
 
 #### **Government Documentation Scenario:**
-You've been provided with a well-formatted Ministry of Transport project proposal document and need to create a new Jabatan Kerja Raya (JKR) infrastructure SKB using the same professional style and formatting standards.
+You've been provided with a well-formatted Ministry of Transport project proposal document and need to create a new Jabatan Kerja Raya (JKR) infrastructure BRS using the same professional style and formatting standards.
 
 #### **Your Mission:**
-Working in pairs, create a complete reverse engineering prompt that will teach AIDevX to replicate the ministry's documentation style for a new highway maintenance system SKB.
+Working in pairs, create a complete reverse engineering prompt that will teach AIDevX to replicate the ministry's documentation style for a new highway maintenance system BRS.
 
 **Required Elements:**
 1. **Style Template Analysis** - Identify key formatting patterns in the provided template
@@ -317,7 +317,7 @@ Write a comprehensive reverse engineering prompt that includes:
 - ✅ Professional output requirements
 
 ### **Success Criteria:**
-Your prompt should enable AI to create a government-ready SKB that:
+Your prompt should enable AI to create a government-ready BRS that:
 - Maintains exact ministry formatting standards
 - Preserves professional language tone and structure
 - Includes proper document classification and approval sections
@@ -363,10 +363,10 @@ ensuring:
 </new_content>
 ```
 
-### **Ministry SKB Style Replication Template**
+### **Ministry BRS Style Replication Template**
 
 ```
-You are a Senior Business Analyst at [Ministry Name]. Create a formal SKB 
+You are a Senior Business Analyst at [Ministry Name]. Create a formal BRS 
 document following our ministry's established standards.
 
 Analyze the style template for:
@@ -376,14 +376,14 @@ Analyze the style template for:
 - Government-appropriate language and compliance integration
 - Standard approval and review signature sections
 
-Transform the raw business requirements into a professional SKB that maintains:
+Transform the raw business requirements into a professional BRS that maintains:
 - Ministry documentation standards and formatting
 - Appropriate government language and tone
 - Regulatory compliance references (PDPA, ministry guidelines)
 - Professional approval hierarchy and document classification
 
 <style_template>
-[Complete ministry SKB or similar formal document]
+[Complete ministry BRS or similar formal document]
 </style_template>
 
 <new_content>

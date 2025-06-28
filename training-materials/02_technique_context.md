@@ -252,10 +252,10 @@ Demonstrate understanding that context completeness directly correlates with doc
 
 ## 📝 **Quick Reference Templates**
 
-### **Context Template for SKB (Business Requirements)**
+### **Context Template for BRS (Business Requirements)**
 
 ```
-PROJECT INTELLIGENCE BRIEFING for SKB:
+PROJECT INTELLIGENCE BRIEFING for BRS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎯 PROJECT FOUNDATION:

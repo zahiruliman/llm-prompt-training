@@ -11,7 +11,7 @@ _Advanced Prompting Strategies for Malaysian Government Analysts_
 
 ### **The Challenge You Face Daily**
 
-You're tasked with creating comprehensive KRISA documents - SKB, SKS, and SRB - that must meet stringent government standards. The traditional approach involves weeks of drafting, multiple review cycles, and countless hours of formatting. There's a better way.
+You're tasked with creating comprehensive KRISA documents - BRS, SKS, and SRB - that must meet stringent government standards. The traditional approach involves weeks of drafting, multiple review cycles, and countless hours of formatting. There's a better way.
 
 ### **Professional vs Amateur AI Usage**
 
@@ -53,7 +53,7 @@ AIDevX provides specialized AI assistants, each designed for specific documentat
 
 | **AI Assistant**          | **Document Output** | **Professional Use Case**                                         |
 | ------------------------- | ------------------- | ----------------------------------------------------------------- |
-| **Generate Requirements** | SKB, SKS documents  | Transform business discussions into structured KRISA requirements |
+| **Generate Requirements** | BRS, SKS documents  | Transform business discussions into structured KRISA requirements |
 | **SRS to SDS**            | Technical SRB       | Convert system requirements into detailed architectural designs   |
 | **Create User Manual**    | End-user guides     | Generate citizen-friendly documentation for government services   |
 | **Chat with Document**    | Analysis & insights | Extract specific information from existing government documents   |
@@ -76,7 +76,7 @@ _(Timeline: 2-3 hours)_
 
 Our training concentrates on the three core KRISA documents you create regularly:
 
-**SKB (Spesifikasi Keperluan Bisnes)**
+**BRS (Spesifikasi Keperluan Bisnes)**
 
 - Business objectives, stakeholder needs, process requirements
 - Foundation document that drives all subsequent development
@@ -126,7 +126,7 @@ Result: Government-specific, compliance-ready, professionally structured require
 
 ### **Strategic Persona Selection for KRISA Documents**
 
-**For SKB (Business Requirements):**
+**For BRS (Business Requirements):**
 _"Senior Business Analyst with extensive experience in Malaysian public sector digital transformation projects"_
 
 - Deep understanding of government stakeholder needs
@@ -171,7 +171,7 @@ The Ministry of Health is developing a nationwide e-prescription system that wil
 
 For each critical document, identify the most qualified expert persona:
 
-**DOCUMENT 1: SKB (Business Requirements)**
+**DOCUMENT 1: BRS (Business Requirements)**
 _Who should define the business objectives and stakeholder needs?_
 
 **A)** Healthcare IT Specialist with programming background
@@ -520,8 +520,8 @@ Instead of starting over when a document isn't quite right, we guide AIDevX thro
 
 | **Vague Direction (Amateur)** | **Professional Guidance (Expert)**                                                                                                                           |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| _"This SKB needs work"_       | _"Section 3.2 business rules are too broad. Add specific eligibility criteria: Malaysian citizens only, minimum 2 years service, maximum RM5,000 per claim"_ |
-| _"Fix the requirements"_      | _"Requirement SKB-BR-08 fails the SMART test. Replace 'system should be user-friendly' with 'login process completes within 30 seconds for 95% of users'"_   |
+| _"This BRS needs work"_       | _"Section 3.2 business rules are too broad. Add specific eligibility criteria: Malaysian citizens only, minimum 2 years service, maximum RM5,000 per claim"_ |
+| _"Fix the requirements"_      | _"Requirement BRS-BR-08 fails the SMART test. Replace 'system should be user-friendly' with 'login process completes within 30 seconds for 95% of users'"_   |
 | _"Make it more detailed"_     | _"Add integration constraints to section 4: must use existing LDAP for authentication, connect via REST API to HRMIS database, maintain 99.5% uptime SLA"_   |
 
 ---
@@ -608,7 +608,7 @@ Malaysian government agencies have established document formats that reflect pro
 **STEP 1: IDENTIFY THE MASTER TEMPLATE**
 Find a well-formatted document from your organization
 
-- Previous year's approved SKB
+- Previous year's approved BRS
 - Corporate project proposal template
 - Ministry's standard SRB format
 
@@ -727,7 +727,7 @@ You now have all the tools a professional Business or System Analyst needs to cr
 
 ---
 
-### **REAL WORKFLOW EXAMPLE: Ministry E-Services SKB**
+### **REAL WORKFLOW EXAMPLE: Ministry E-Services BRS**
 
 **INPUT:** Ministry wants to digitize citizen birth certificate applications
 
@@ -741,24 +741,24 @@ Persona +  →   Planning  →  Execution → Assurance
 Context        Method       Templates   Reviews
 ```
 
-**OUTPUT:** Government-ready SKB document in 2-3 hours instead of 2-3 days
+**OUTPUT:** Government-ready BRS document in 2-3 hours instead of 2-3 days
 
 ---
 
 ### **Copy-Paste Professional Templates**
 
-**SKB Quick-Start Prompt:**
+**BRS Quick-Start Prompt:**
 
 ```
 You are a Senior Business Analyst with 10+ years experience in Malaysian 
-government digital transformation projects. Create an SKB for [PROJECT NAME] 
+government digital transformation projects. Create an BRS for [PROJECT NAME] 
 following KRISA guidelines.
 
 CONTEXT: [Project background, objectives, constraints]
 STAKEHOLDERS: [Primary users and decision makers]  
 COMPLIANCE: [KRISA, PDPA, ministry-specific requirements]
 
-Before generating the full SKB, first blueprint the document structure 
+Before generating the full BRS, first blueprint the document structure 
 and key business requirements for my validation.
 ```
 
@@ -798,7 +798,7 @@ You've learned all six professional techniques. Now prove your mastery with a re
 
 ### **Your Professional Challenge**
 
-Create the complete professional workflow to generate a government-ready SKB document:
+Create the complete professional workflow to generate a government-ready BRS document:
 
 **DELIVERABLES:**
 

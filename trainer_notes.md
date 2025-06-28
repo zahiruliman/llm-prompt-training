@@ -1,42 +1,51 @@
 # AIDevX Workshop: Trainer's Notes & Facilitator's Guide
+*Professional KRISA Documentation with AIDevX - Advanced Prompting Strategies for Malaysian Government Analysts*
 
 ## A. Workshop Overview
 
-- **Total Time:** 90 Minutes
-- **Objective:** To equip BAs and SAs with advanced, practical prompting techniques to generate high-quality, structured documents using AIDevX, aligned with Malaysian public sector standards (**KRISA**).
-- **Materials:** Projector, Slides (`training_slides.md`), Whiteboard/Flip-chart (optional for activities).
+- **Total Duration:** 90 Minutes (Core) + 35 Minutes (Extended)
+- **Session Objective:** Transform approach to creating government-standard KRISA documents using professional AI assistance techniques
+- **Target Audience:** Business & System Analysts in Malaysian Government
+- **Materials Required:** Projector, Access to aidevx.mtssb.io, Whiteboard/Flip-chart, Handouts for activities
+- **Platform:** AIDevX specialized assistants for government documentation
 
 ### **Target Deliverables for this Training**
 
-This workshop is specifically designed to help Business Analysts and System Analysts use AIDevX to accelerate the creation of the core documents required by the KRISA methodology. Throughout the session, all techniques and activities will be framed around generating content for these four key deliverables:
+This workshop is specifically designed to help Business and System Analysts use AIDevX to accelerate the creation of core KRISA methodology documents:
 
-1. **Spesifikasi Keperluan Bisnes (SKB) / Business Requirement Specification (BRS)**
-2. **Spesifikasi Keperluan Sistem (SKS) / System Requirement Specification (SRS)**
-3. **Spesifikasi Rekabentuk Sistem (SRB) / System Design Specification (SDS)**
-4. **Supporting Artifacts**: Including Business Process Models (e.g., BPMN diagrams), Use Case Models, and Data Models.
+1. **Spesifikasi Keperluan Bisnes (BRS) / Business Requirement Specification**
+2. **Spesifikasi Keperluan Sistem (SKS) / System Requirement Specification** 
+3. **Spesifikasi Rekabentuk Sistem (SRB) / System Design Specification**
+4. **Supporting Artifacts:** Business Process Models, Use Case Models, Data Models
+
+**Key Training Outcome:** Professional capability to generate government-standard documentation in 2-3 hours instead of 2-3 weeks.
 
 ---
 
-## B. Session Flow & Timings
+## B. Complete Session Flow & Detailed Timings
 
-| #         | Topic                               | Slide(s) | Est. Time   |
-| --------- | ----------------------------------- | -------- | ----------- |
-| 1         | Professional Transformation Journey | 1-2      | 10 mins     |
-| 2         | Expert Persona Strategy             | 3        | 5 mins      |
-| 3         | Expert Selection Workshop           | 4        | 5 mins      |
-| 4         | Project Intelligence Framework      | 5        | 5 mins      |
-| 5         | Context Intelligence Workshop       | 6        | 10 mins     |
-| 6         | Professional Template Methodology   | 7        | 5 mins      |
-| 7         | Template Creation Workshop          | 8        | 8 mins      |
-| 8         | Technique 4: Chain of Thought       | 9        | 5 mins      |
-| 9         | Activity 4: Rancang Dulu            | 10       | 10 mins     |
-| 10        | Technique 5: Iterative Prompting    | 11       | 5 mins      |
-| 11        | Activity 5: Jom Perhalusi           | 12       | 5 mins      |
-| 12        | Technique 6: Reverse Engineering    | 13       | 5 mins      |
-| 13        | Activity 6: Ajar Templat Ini        | 14       | 5 mins      |
-| 14        | Conclusion & Full Workflow          | 15       | 5 mins      |
-| 15        | Q&A and Closing                     | 16       | 5 mins      |
-| **Total** |                                     |          | **90 mins** |
+| # | Section Topic | Slide(s) | Format | Duration | Cumulative |
+|---|---|---|---|---|---|
+| 1 | Professional Transformation Journey | 1-2 | Presentation | 10 mins | 0-10 |
+| 2 | Expert Persona Strategy | 3 | Presentation | 5 mins | 10-15 |
+| 3 | Expert Selection Workshop | 4 | Interactive | 5 mins | 15-20 |
+| 4 | Project Intelligence Framework | 5 | Presentation | 5 mins | 20-25 |
+| 5 | Context Intelligence Workshop | 6 | Interactive | 10 mins | 25-35 |
+| 6 | Professional Template Methodology | 7 | Presentation | 5 mins | 35-40 |
+| 7 | Template Teaching Workshop | 8 | Interactive | 8 mins | 40-48 |
+| 8 | Blueprint Planning Method | 9 | Presentation | 5 mins | 48-53 |
+| 9 | Architecture Planning Workshop | 10 | Interactive | 10 mins | 53-63 |
+| 10 | Professional Document Refinement | 11 | Presentation | 5 mins | 63-68 |
+| 11 | Document Quality Workshop | 12 | Interactive | 10 mins | 68-78 |
+| 12 | Professional Style Replication | 13 | Presentation | 5 mins | 78-83 |
+| 13 | Style Transfer Mastery Workshop | 14 | Interactive | 10 mins | 83-93 |
+| 14 | Master Professional Workflow | 15 | Presentation | 5 mins | 93-98 |
+| 15 | Professional Certification Challenge | 16 | Assessment | 15 mins | 98-113 |
+| 16 | Professional Mastery Achieved | 17 | Wrap-up | 5 mins | 113-118 |
+| 17 | Q&A & Discussion | 18 | Interactive | 7 mins | 118-125 |
+| **TOTAL** | | **1-18** | **Mixed** | **125 mins** | **~2 hours** |
+
+**Note:** Session designed as 90-minute core with 35-minute extension for comprehensive coverage. Can be shortened by reducing workshop times if needed.
 
 ---
 
@@ -70,7 +79,7 @@ This workshop is specifically designed to help Business Analysts and System Anal
 - **Time:** 5 mins
 - **Activity Instructions:**
   1. Present the Ministry of Health E-Prescription System scenario - emphasize the complexity and real-world stakes.
-  2. Walk through each document type (SKB, SKS, SRB) and the three expert options provided.
+  2. Walk through each document type (BRS, SKS, SRB) and the three expert options provided.
   3. Have participants call out their choices and justify their reasoning.
   4. **Discussion Focus:** Connect expert selection to document quality and compliance readiness.
   5. **Key Outcome:** Participants understand that expert persona selection directly impacts project success.
@@ -110,16 +119,47 @@ This workshop is specifically designed to help Business Analysts and System Anal
   - **KRISA Requirements:** Show the complete template with compliance notes and proper government formatting.
   - **Professional Principle:** "One perfect example is worth a thousand words of description."
 
-### **Section 7: Template Creation Workshop**
+### **Section 7: Template Teaching Workshop**
 
 - **Slide:** 8
-- **Time:** 8 mins
-- **Activity Instructions:**
-  1. Present the template transformation challenge using raw notes about system admin user role management.
-  2. Show the target KRISA format that participants need to achieve.
-  3. Have pairs create a complete prompt incorporating expert persona, context, and template examples.
-  4. After 7 minutes, ask one pair to present their solution, highlighting the professional approach to template-driven formatting.
-- **Trainer's Tip:** Use this to reinforce how template methodology ensures consistent, government-standard formatting across all requirements.
+- **Time:** 8 mins | **Format:** Interactive Workshop
+
+#### **Workshop Challenge:**
+Transform raw business notes into professional KRISA requirements using template methodology
+
+#### **Detailed Facilitation Steps:**
+
+**Challenge Setup (1 min):**
+- Present raw input: "The system admin needs to manage user roles..."
+- Show target KRISA format on slide
+- "Your task: write a complete prompt using appropriate persona, context, and template examples"
+
+**Work Session (6 mins):**
+- Can be individual or pair work (adjust based on group size)
+- Participants create complete prompts incorporating:
+  - Appropriate persona (system analyst/administrator expert)
+  - Brief context (university system, admin functions)
+  - Template examples (KRISA format)
+  - Clear instructions
+
+**Solution Sharing (1 min):**
+- Ask one pair/individual to share their complete prompt
+- Highlight professional approach to template-driven formatting
+- Point out specific elements: persona specificity, context relevance, template clarity
+
+#### **Success Indicators:**
+- Prompts include specific expert personas
+- Context relevant to university admin systems
+- Template examples follow KRISA format exactly
+- Clear instructions for generating multiple requirements
+
+#### **Facilitator Notes:**
+- Emphasize how template methodology ensures consistent government-standard formatting
+- If time allows, discuss alternative persona choices
+
+#### **Transition:** "Templates ensure consistent formatting. For complex documents, we need architectural planning."
+
+---
 
 ### **Section 8: Blueprint Planning Method**
 
@@ -133,13 +173,42 @@ This workshop is specifically designed to help Business Analysts and System Anal
 
 ### **Section 9: Architecture Planning Workshop**
 
-- **Slide:** 10
-- **Time:** 10 mins
-- **Activity Instructions:**
-  1. Present the real government scenario: Jabatan Akauntan Negara's E-Claim system for 50,000+ civil servants.
-  2. Emphasize the complexity: "This isn't just a simple expense system. It's a government-wide platform with integration requirements, compliance needs, and audit trails."
-  3. Have pairs work through the planning framework, focusing on system ecosystem mapping and integration architecture.
-  4. Ask one pair to present their blueprint planning approach. Highlight the professional thinking required for government-scale projects.
+- **Slide:** 10 | **Time:** 10 minutes | **Format:** Interactive Workshop
+
+#### **Workshop Scenario:**
+Government Employee E-Claim System - Jabatan Akauntan Negara Malaysia digitizing expense claims for 50,000+ civil servants
+
+#### **Detailed Facilitation Steps:**
+
+**Scenario Setup (2 mins):**
+- Present background and current pain points
+- Emphasize complexity: "This isn't just a simple expense system"
+- "It's a government-wide platform with integration requirements, compliance needs, and audit trails"
+
+**Blueprint Planning Exercise (6 mins):**
+- Form pairs quickly
+- Provide planning framework from slide (4 steps)
+- "Create a blueprint planning prompt that breaks down this complex SKS into logical components"
+- Walk around to provide guidance and observe progress
+
+**Solution Presentation (2 mins):**
+- Ask one pair to present their blueprint planning approach
+- Highlight professional thinking required for government-scale projects
+- Connect to system ecosystem mapping and integration architecture concepts
+
+#### **Planning Framework Focus:**
+- Step 1: System Ecosystem Mapping (existing systems vs. new components)
+- Step 2: User Journey Architecture (complete claim process flow)
+- Step 3: Data Architecture (information flows and audit trails)
+- Step 4: Integration Architecture (HRMIS connection, finance system integration)
+
+#### **Expected Deliverable:**
+One complete blueprint planning prompt ready for AIDevX implementation
+
+#### **Facilitator Tips:**
+- Encourage thinking about HRMIS integration specifically
+- Push for audit trail requirements (government compliance)
+- Emphasize multi-ministry scope challenges
 
 ### **Section 10: Professional Document Refinement**
 
@@ -200,16 +269,126 @@ This workshop is specifically designed to help Business Analysts and System Anal
 - **Activity Instructions:**
   1. Present the Malaysia Digital ID System project briefing - a complex, high-stakes government initiative.
   2. Explain this is their professional mastery assessment, requiring application of all techniques learned.
-  3. Give participants 15 minutes to create a complete professional workflow for generating government-ready SKB.
+  3. Give participants 15 minutes to create a complete professional workflow for generating government-ready BRS.
   4. Have 2-3 participants briefly present their approach, highlighting the professional thinking demonstrated.
 - **Trainer's Tip:** This final challenge demonstrates they can apply professional methodologies to real-world, complex government projects.
 
 ### **Section 16: Professional Mastery Achieved**
 
-- **Slide:** 17
-- **Time:** 5 mins
-- **Talking Points:**
-  - Congratulate participants on achieving professional mastery, not just learning techniques.
-  - Emphasize the transformation achieved and immediate actions they can take.
-  - Connect their new skills to career advancement and project success.
-  - **Key Message:** "The difference between an amateur and a professional is the systematic application of proven methodologies. You now have both knowledge and methodology."
+- **Slide:** 17 | **Time:** 5 minutes | **Format:** Wrap-up & Recognition
+
+#### **Celebration of Achievement:**
+- "You now possess the complete toolkit for creating government-standard KRISA documents"
+- "These aren't just techniques - they're professional skills that will accelerate your career"
+
+#### **Key Talking Points:**
+1. **Transformation Achieved (2 mins):**
+   - Walk through before/after comparison table
+   - Emphasize systematic methodology vs. starting from scratch
+   - "You've moved from amateur to professional approach"
+
+2. **Immediate Actions (2 mins):**
+   - This week: Apply 4-phase workflow to current project
+   - This month: Create organization's style template library
+   - Ongoing: Build personal library of proven prompts
+
+3. **Professional Resources (1 min):**
+   - Platform access: aidevx.mtssb.io
+   - Training materials: Complete reference guide
+   - Professional network: Connect with other certified practitioners
+
+#### **Key Message:** "The difference between an amateur and a professional isn't just knowledge - it's the systematic application of proven methodologies. You now have both."
+
+#### **Transition:** "Let's address any questions and discuss implementation."
+
+---
+
+### **Section 17: Q&A & Discussion**
+
+- **Slide:** 18 | **Time:** 7 minutes | **Format:** Interactive Discussion
+
+#### **Open Floor Discussion Strategy:**
+
+**Reflection Questions (3 mins):**
+- "Which technique will have the biggest impact on your daily work?"
+- "What challenges do you anticipate when implementing these strategies?"
+- "How will this change your current documentation process?"
+
+**Common Questions & Answers (3 mins):**
+- **Q:** How long should a good prompt be?
+  **A:** Quality over quantity - include all necessary context but stay focused
+  
+- **Q:** What if the AI doesn't understand KRISA format?
+  **A:** Use Professional Style Replication with existing KRISA documents as templates
+  
+- **Q:** How do I handle confidential project information?
+  **A:** Use generic examples during training, apply techniques to real projects carefully with appropriate security measures
+
+**Implementation Planning (1 min):**
+- Encourage immediate practice with one technique daily
+- Suggest starting with current project using foundation techniques
+- Provide contact information for ongoing support
+
+#### **Facilitator Tips:**
+- Encourage specific implementation questions
+- Connect questions back to techniques covered
+- Provide practical next steps for different scenarios
+
+#### **Closing:**
+- "Ready to transform your documentation workflow!"
+- Next steps: Bookmark aidevx.mtssb.io, practice daily, prepare for hands-on application
+- Thank participants for professional engagement
+
+---
+
+## D. Workshop Success Indicators
+
+### **Participant Engagement Metrics:**
+- Active participation in all 6 interactive workshops
+- Quality of questions demonstrating technique understanding
+- Professional approach to challenge activities
+- Integration thinking in final assessment
+
+### **Learning Outcome Assessment:**
+- Ability to select appropriate expert personas for different KRISA documents
+- Context development that includes government-specific requirements
+- Template creation that follows professional formatting standards
+- Blueprint planning that addresses system complexity
+- Refinement approaches that meet government quality standards
+- Style replication that maintains organizational consistency
+
+### **Implementation Readiness:**
+- Confidence in applying techniques to real projects
+- Understanding of AIDevX platform capabilities
+- Professional workflow integration
+- Government compliance awareness
+
+---
+
+## E. Trainer Preparation Checklist
+
+### **Technology Setup:**
+- [ ] Verify aidevx.mtssb.io access and functionality
+- [ ] Test projector and slide presentation
+- [ ] Prepare backup slides in case of technical issues
+- [ ] Have printed handouts for workshop activities
+
+### **Content Preparation:**
+- [ ] Review all Malaysian government examples for accuracy
+- [ ] Practice timing for each workshop segment
+- [ ] Prepare alternative activities for different group sizes
+- [ ] Review KRISA methodology requirements
+
+### **Room Setup:**
+- [ ] Arrange seating for pair work activities
+- [ ] Ensure whiteboard/flip-chart availability
+- [ ] Test audio/visual equipment
+- [ ] Prepare materials distribution
+
+### **Engagement Strategy:**
+- [ ] Plan interaction approaches for different personality types
+- [ ] Prepare additional examples if needed
+- [ ] Review troubleshooting approaches for workshop challenges
+- [ ] Plan timing flexibility for dynamic adjustments
+
+**Training Excellence:** This guide ensures consistent, professional delivery that transforms participants into competent practitioners of AI-assisted government documentation.
